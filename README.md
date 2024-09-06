@@ -35,7 +35,7 @@
 
 To run the server, execute the following command:
 ```bash
-make
+./server
 ```
 The server will display its process ID (PID), which is needed to communicate with the client.
 
