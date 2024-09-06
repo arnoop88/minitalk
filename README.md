@@ -31,7 +31,7 @@
 	```bash
 	make
 
-## Runing the server
+## Running the server
 
 To run the server, execute the following command:
 ```bash
@@ -39,7 +39,7 @@ To run the server, execute the following command:
 ```
 The server will display its process ID (PID), which is needed to communicate with the client.
 
-## Runing the client
+## Running the client
 
 To run the client and send a message to the server, use the following command:
 ```bash
